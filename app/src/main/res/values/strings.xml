@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MucoMarket</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Şifre</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Hesabın yok mu? Kayıt Ol</string>
+    <string name="login_name_hint">Ad</string>
+    <string name="login_surname_hint">Soyad</string>
+    <string name="login_mobile_number_hint">Telefon Numarası</string>
+
+</resources>
