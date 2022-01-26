@@ -1,6 +1,8 @@
 # Android Product Introduction
 This application promotes a company's products, takes orders from the user through the service channel and sends the product to the customer.
 
+[![](https://img.shields.io/badge/2.9.0-Retrofit-brightgreen)](https://square.github.io/retrofit/)
+
 | Kullanıcı Adı  | Şifre |
 | ------------- | ------------- |
 | 💁 mucahit@mail.com  | 🔒 12345  |
