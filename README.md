@@ -1,5 +1,5 @@
 # Android Product Introduction
-Android Product Introduction
+This application promotes a company's products, takes orders from the user through the service channel and sends the product to the customer.
 
 | Kullanıcı Adı  | Şifre |
 | ------------- | ------------- |
