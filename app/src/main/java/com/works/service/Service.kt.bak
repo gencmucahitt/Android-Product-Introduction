@@ -10,7 +10,7 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 interface Service {
-//userservice
+
     @GET("userLogin.php")
     fun userLogin(
         @Query("userEmail") userEmail:String,
