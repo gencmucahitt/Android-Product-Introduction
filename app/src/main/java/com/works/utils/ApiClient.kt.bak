@@ -16,7 +16,6 @@ object ApiClient {
         }
         return retrofit!!
     }
-	//baglanti
 
 
 }
